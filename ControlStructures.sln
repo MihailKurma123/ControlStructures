@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Palindrome", "Palindrome\Pa
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Shooter", "Shooter\Shooter.vcxproj", "{8C8BD6C4-EA99-40E3-97E7-8A8F11D2018E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PascalTriangle", "PascalTriangle\PascalTriangle.vcxproj", "{5221804B-5EE6-477D-A8A9-92BB82982682}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{8C8BD6C4-EA99-40E3-97E7-8A8F11D2018E}.Release|x64.Build.0 = Release|x64
 		{8C8BD6C4-EA99-40E3-97E7-8A8F11D2018E}.Release|x86.ActiveCfg = Release|Win32
 		{8C8BD6C4-EA99-40E3-97E7-8A8F11D2018E}.Release|x86.Build.0 = Release|Win32
+		{5221804B-5EE6-477D-A8A9-92BB82982682}.Debug|x64.ActiveCfg = Debug|x64
+		{5221804B-5EE6-477D-A8A9-92BB82982682}.Debug|x64.Build.0 = Debug|x64
+		{5221804B-5EE6-477D-A8A9-92BB82982682}.Debug|x86.ActiveCfg = Debug|Win32
+		{5221804B-5EE6-477D-A8A9-92BB82982682}.Debug|x86.Build.0 = Debug|Win32
+		{5221804B-5EE6-477D-A8A9-92BB82982682}.Release|x64.ActiveCfg = Release|x64
+		{5221804B-5EE6-477D-A8A9-92BB82982682}.Release|x64.Build.0 = Release|x64
+		{5221804B-5EE6-477D-A8A9-92BB82982682}.Release|x86.ActiveCfg = Release|Win32
+		{5221804B-5EE6-477D-A8A9-92BB82982682}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
